@@ -1,0 +1,26 @@
+{
+  "name": "project-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huygolata0123/Project-Nodejs.git"
+  },
+  "author": "huyTran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huygolata0123/Project-Nodejs/issues"
+  },
+  "homepage": "https://github.com/huygolata0123/Project-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
